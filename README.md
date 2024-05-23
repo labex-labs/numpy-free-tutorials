@@ -6,8 +6,8 @@
 
 NumPy is a Python library for scientific computing. It provides fast and efficient multidimensional arrays, as well as a large collection of mathematical functions. In this skill tree, you'll learn how to use NumPy to perform basic operations on arrays of data.
 
-|   Index | Name                                                     | Difficulty   | Tutorial                                                                                                    |
-|---------|----------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Tutorial                                                                                                   |
+|---------|---------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First NumPy Lab                                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/your-first-numpy-lab-92735)                                   |
 |      02 | 📖 Array Attributes and Dtype                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/array-attributes-and-dtype-8027)                              |
 |      03 | 📖 NumPy Arrays and Data Types                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/numpy-arrays-and-data-types-4996)                             |
@@ -116,7 +116,8 @@ NumPy is a Python library for scientific computing. It provides fast and efficie
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
