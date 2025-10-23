@@ -14,14 +14,15 @@
 |--------|------------------------------------------------------------------------------------------------------------------|--------|-------------------------------------------------------------------------------------------|
 |     01 | [📖 用于科学计算的 NumPy Einsum](https://labex.io/zh/tutorials/numpy-numpy-einsum-for-scientific-computing-4991) | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-einsum-for-scientific-computing-4991) |
 |     02 | [📖 NumPy Einsum 函数](https://labex.io/zh/tutorials/numpy-numpy-einsum-function-8001)                           | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-einsum-function-8001)                 |
-|     03 | [📖 NumPy 数组创建基础技术](https://labex.io/zh/tutorials/numpy-numpy-array-creation-596338)                     | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-array-creation-596338)                |
-|     04 | [📖 NumPy 索引入门](https://labex.io/zh/tutorials/numpy-numpy-indexing-on-ndarrays-596339)                       | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-indexing-on-ndarrays-596339)          |
-|     05 | [📖 使用 Genfromtxt 导入数据](https://labex.io/zh/tutorials/numpy-numpy-io-genfromtxt-596340)                    | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-io-genfromtxt-596340)                 |
-|     06 | [📖 理解 NumPy 数据类型](https://labex.io/zh/tutorials/numpy-numpy-data-types-596341)                            | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-data-types-596341)                    |
-|     07 | [📖 NumPy 广播实现高效计算](https://labex.io/zh/tutorials/numpy-numpy-broadcasting-596342)                       | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-broadcasting-596342)                  |
-|     08 | [📖 NumPy 数组操作基础](https://labex.io/zh/tutorials/numpy-numpy-copies-and-views-596343)                       | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-copies-and-views-596343)              |
-|     09 | [📖 NumPy 中的结构化数组](https://labex.io/zh/tutorials/numpy-numpy-structured-arrays-596344)                    | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-structured-arrays-596344)             |
-|     10 | [📖 NumPy 通用函数入门](https://labex.io/zh/tutorials/numpy-numpy-universal-functions-596345)                    | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-universal-functions-596345)           |
+|     03 | [📖 NumPy 数学挑战](https://labex.io/zh/tutorials/python-numpy-math-games-10)                                    | 初级   | [🔗 View](https://labex.io/zh/tutorials/python-numpy-math-games-10)                       |
+|     04 | [📖 NumPy 数组创建基础技术](https://labex.io/zh/tutorials/numpy-numpy-array-creation-596338)                     | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-array-creation-596338)                |
+|     05 | [📖 NumPy 索引入门](https://labex.io/zh/tutorials/numpy-numpy-indexing-on-ndarrays-596339)                       | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-indexing-on-ndarrays-596339)          |
+|     06 | [📖 使用 Genfromtxt 导入数据](https://labex.io/zh/tutorials/numpy-numpy-io-genfromtxt-596340)                    | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-io-genfromtxt-596340)                 |
+|     07 | [📖 理解 NumPy 数据类型](https://labex.io/zh/tutorials/numpy-numpy-data-types-596341)                            | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-data-types-596341)                    |
+|     08 | [📖 NumPy 广播实现高效计算](https://labex.io/zh/tutorials/numpy-numpy-broadcasting-596342)                       | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-broadcasting-596342)                  |
+|     09 | [📖 NumPy 数组操作基础](https://labex.io/zh/tutorials/numpy-numpy-copies-and-views-596343)                       | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-copies-and-views-596343)              |
+|     10 | [📖 NumPy 中的结构化数组](https://labex.io/zh/tutorials/numpy-numpy-structured-arrays-596344)                    | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-structured-arrays-596344)             |
+|     11 | [📖 NumPy 通用函数入门](https://labex.io/zh/tutorials/numpy-numpy-universal-functions-596345)                    | 初级   | [🔗 View](https://labex.io/zh/tutorials/numpy-numpy-universal-functions-596345)           |
 
 ## 更多
 
